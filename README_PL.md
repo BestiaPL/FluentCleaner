@@ -56,7 +56,7 @@ FluentCleaner dostępny jest w dwóch wariantach. Ten sam silnik czyszczączy or
 | Platforma | x64 / ARM64, Windows 10 build 17763+ | praktycznie każdy Windows |
 | Wspólny silnik | `FluentCleaner.Core` (netstandard2.0) — logika skanowania/czyszczenia, parser Winapp2.ini | to samo |
 | Wymagania | Windows 10 2004 (Build 19041) lub nowszy + [runtime Windows App SDK 2.0.1](https://aka.ms/windowsappsdk/2.0/2.0.1/windowsappruntimeinstall-x64.exe) (instalowane tylko raz, samodzielnie) | brak - używa dowolnego .NET Framework zainstalowanego w Twoim systemie |
-| Pobieranie | [⬇ Najnowszy](https://github.com/builtbybel/FluentCleaner/releases/latest/download/FluentCleaner-win-x64.zip) | [⬇ Najnowszy](https://github.com/builtbybel/FluentCleaner/releases/latest/download/FluentCleaner-Classic-net48.zip) · [more info](https://github.com/builtbybel/FluentCleaner/releases/tag/classic-1.0.0) |
+| Pobieranie | [⬇ Najnowszy](https://github.com/builtbybel/FluentCleaner/releases/latest/download/FluentCleaner-win-x64.zip) | [⬇ Najnowszy](https://github.com/builtbybel/FluentCleaner/releases/latest/download/FluentCleaner-Classic-net48.zip) · [więcej informacji](https://github.com/builtbybel/FluentCleaner/releases/tag/classic-1.0.0) |
 
 **Nie wiesz, który pobrać?** If you want the modern look and don't mind installing the Windows App SDK once, go with the main version. If you want something tiny, portable, and framework-dependent (or you're on an older/locked-down machine), grab Classic.
 
